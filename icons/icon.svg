@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#22214b"/>
+  <circle cx="256" cy="256" r="206" fill="#5896ce"/>
+  <g transform="translate(256 256) rotate(-35)">
+    <path d="M-175 0A198.3 198.3 0 0 1 175 0A198.3 198.3 0 0 1 -175 0Z" fill="#9a4f24" stroke="#6f3515" stroke-width="9" paint-order="fill" stroke-linejoin="round"/>
+    <path d="M-121 -78V78M121 -78V78" stroke="#fff" stroke-width="18" clip-path="url(#ball)"/>
+    <path d="M-66 0H66M-48 -25V25M-16 -25V25M16 -25V25M48 -25V25" stroke="#fff" stroke-width="12"/>
+  </g>
+  <defs>
+    <clipPath id="ball"><path d="M-175 0A198.3 198.3 0 0 1 175 0A198.3 198.3 0 0 1 -175 0Z"/></clipPath>
+  </defs>
+</svg>
