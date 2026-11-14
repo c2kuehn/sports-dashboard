@@ -819,6 +819,19 @@
       "coordsFrom": "census-address"
     },
     {
+      "key": "InfoCision Stadium|Akron",
+      "name": "InfoCision Stadium",
+      "city": "Akron",
+      "state": "OH",
+      "espnVenueId": "3768",
+      "espnIndoor": false,
+      "roof": "outdoor",
+      "roofSource": "espn",
+      "leagues": [
+        "cfb"
+      ]
+    },
+    {
       "key": "Paycor Stadium|Cincinnati",
       "name": "Paycor Stadium",
       "city": "Cincinnati",
