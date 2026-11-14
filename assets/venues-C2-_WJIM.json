@@ -229,6 +229,20 @@
       ]
     },
     {
+      "key": "Hard Rock Stadium|Miami Gardens",
+      "name": "Hard Rock Stadium",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "zip": "33056",
+      "espnVenueId": "3948",
+      "espnIndoor": false,
+      "roof": "outdoor",
+      "roofSource": "espn",
+      "leagues": [
+        "cfb"
+      ]
+    },
+    {
       "key": "loanDepot park|Miami",
       "name": "loanDepot park",
       "city": "Miami",
@@ -425,6 +439,19 @@
       "lat": 41.94727,
       "lon": -87.65613,
       "coordsFrom": "census-address"
+    },
+    {
+      "key": "Memorial Stadium (Bloomington, IN)|Bloomington",
+      "name": "Memorial Stadium (Bloomington, IN)",
+      "city": "Bloomington",
+      "state": "IN",
+      "espnVenueId": "3830",
+      "espnIndoor": false,
+      "roof": "outdoor",
+      "roofSource": "espn",
+      "leagues": [
+        "cfb"
+      ]
     },
     {
       "key": "Ross-Ade Stadium|West Lafayette",
@@ -1056,6 +1083,23 @@
       ],
       "lat": 32.75203,
       "lon": -97.08261,
+      "coordsFrom": "census-zip"
+    },
+    {
+      "key": "Kyle Field|College Station",
+      "name": "Kyle Field",
+      "city": "College Station",
+      "state": "TX",
+      "zip": "77840",
+      "espnVenueId": "3795",
+      "espnIndoor": false,
+      "roof": "outdoor",
+      "roofSource": "espn",
+      "leagues": [
+        "cfb"
+      ],
+      "lat": 30.61153,
+      "lon": -96.32327,
       "coordsFrom": "census-zip"
     },
     {
